@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+   version="1.1"
+   creator="The MathWorks, Inc. https://www.mathworks.com"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<name> sample_route.gpx </name>
+   <copyright author="The Mathworks, Inc.">
+      <year>2011</year>
+   </copyright>
+</metadata>
+<rte>
+   <name>Boston Logan International to The MathWorks, Inc., Natick, MA.</name>
+ <rtept lat="42.36482" lon="-71.02141">
+   <name>Turn 1</name>
+   <desc>Head southeast</desc>
+ </rtept>
+ <rtept lat="42.3643" lon="-71.02033">
+ </rtept>
+ <rtept lat="42.36435" lon="-71.0201">
+ </rtept>
+ <rtept lat="42.3645" lon="-71.02006">
+ </rtept>
+ <rtept lat="42.36463" lon="-71.02012">
+ </rtept>
+ <rtept lat="42.365" lon="-71.02086">
+ </rtept>
+ <rtept lat="42.36518" lon="-71.02101">
+ </rtept>
+ <rtept lat="42.36535" lon="-71.021">
+ </rtept>
+ <rtept lat="42.36547" lon="-71.02095">
+ </rtept>
+ <rtept lat="42.36738" lon="-71.01938">
+ </rtept>
+ <rtept lat="42.36754" lon="-71.01939">
+ </rtept>
+ <rtept lat="42.36771" lon="-71.01965">
+ </rtept>
+ <rtept lat="42.36794" lon="-71.02118">
+ </rtept>
+ <rtept lat="42.36821" lon="-71.02234">
+ </rtept>
+ <rtept lat="42.3686" lon="-71.02382">
+ </rtept>
+ <rtept lat="42.3689" lon="-71.02462">
+   <name>Turn 2</name>
+   <desc>Keep left at the fork, follow signs for I-90 W/I-93 S/Williams Tunnel/Mass Pike and merge onto I-90 W
+Partial toll road</desc>
+ </rtept>
+ <rtept lat="42.3689" lon="-71.02462">
+ </rtept>
+ <rtept lat="42.36896" lon="-71.02488">
+ </rtept>
+ <rtept lat="42.36936" lon="-71.02595">
+ </rtept>
+ <rtept lat="42.36943" lon="-71.0263">
+ </rtept>
+ <rtept lat="42.36944" lon="-71.02684">
+ </rtept>
+ <rtept lat="42.36936" lon="-71.02726">
+ </rtept>
+ <rtept lat="42.3692" lon="-71.02761">
+ </rtept>
+ <rtept lat="42.36886" lon="-71.02798">
+ </rtept>
+ <rtept lat="42.36858" lon="-71.02811">
+ </rtept>
+ <rtept lat="42.36814" lon="-71.0281">
+ </rtept>
+ <rtept lat="42.3678" lon="-71.02795">
+ </rtept>
+ <rtept lat="42.36762" lon="-71.02775">
+ </rtept>
+ <rtept lat="42.36745" lon="-71.02744">
+ </rtept>
+ <rtept lat="42.36704" lon="-71.02647">
+ </rtept>
+ <rtept lat="42.36653" lon="-71.02577">
+ </rtept>
+ <rtept lat="42.36633" lon="-71.02558">
+ </rtept>
+ <rtept lat="42.36569" lon="-71.02517">
+ </rtept>
+ <rtept lat="42.36489" lon="-71.02477">
+ </rtept>
+ <rtept lat="42.36321" lon="-71.02491">
+ </rtept>
+ <rtept lat="42.35935" lon="-71.0255">
+ </rtept>
+ <rtept lat="42.35853" lon="-71.02574">
+ </rtept>
+ <rtept lat="42.35398" lon="-71.02809">
+ </rtept>
+ <rtept lat="42.35284" lon="-71.02878">
+ </rtept>
+ <rtept lat="42.35013" lon="-71.03089">
+ </rtept>
+ <rtept lat="42.34974" lon="-71.03124">
+ </rtept>
+ <rtept lat="42.34914" lon="-71.03193">
+ </rtept>
+ <rtept lat="42.3484" lon="-71.03324">
+ </rtept>
+ <rtept lat="42.34773" lon="-71.03464">
+ </rtept>
+ <rtept lat="42.3472" lon="-71.03595">
+ </rtept>
+ <rtept lat="42.34686" lon="-71.0371">
+ </rtept>
+ <rtept lat="42.34678" lon="-71.03774">
+ </rtept>
+ <rtept lat="42.34676" lon="-71.03864">
+ </rtept>
+ <rtept lat="42.34677" lon="-71.03897">
+ </rtept>
+ <rtept lat="42.34689" lon="-71.03988">
+ </rtept>
+ <rtept lat="42.34714" lon="-71.04074">
+ </rtept>
+ <rtept lat="42.34843" lon="-71.04397">
+ </rtept>
+ <rtept lat="42.34854" lon="-71.04432">
+ </rtept>
+ <rtept lat="42.34863" lon="-71.04492">
+ </rtept>
+ <rtept lat="42.34855" lon="-71.04598">
+ </rtept>
+ <rtept lat="42.34839" lon="-71.04726">
+ </rtept>
+ <rtept lat="42.34707" lon="-71.05461">
+ </rtept>
+ <rtept lat="42.34674" lon="-71.05672">
+ </rtept>
+ <rtept lat="42.34652" lon="-71.05986">
+ </rtept>
+ <rtept lat="42.34657" lon="-71.06117">
+ </rtept>
+ <rtept lat="42.3467" lon="-71.06219">
+ </rtept>
+ <rtept lat="42.34761" lon="-71.06633">
+ </rtept>
+ <rtept lat="42.3478" lon="-71.06767">
+ </rtept>
+ <rtept lat="42.34795" lon="-71.06908">
+ </rtept>
+ <rtept lat="42.34797" lon="-71.07388">
+ </rtept>
+ <rtept lat="42.3478" lon="-71.08054">
+ </rtept>
+ <rtept lat="42.3477" lon="-71.08645">
+ </rtept>
+ <rtept lat="42.34772" lon="-71.08819">
+ </rtept>
+ <rtept lat="42.34793" lon="-71.09">
+ </rtept>
+ <rtept lat="42.34785" lon="-71.09969">
+ </rtept>
+ <rtept lat="42.34794" lon="-71.10082">
+ </rtept>
+ <rtept lat="42.34912" lon="-71.10721">
+ </rtept>
+ <rtept lat="42.34944" lon="-71.10834">
+ </rtept>
+ <rtept lat="42.34996" lon="-71.10961">
+ </rtept>
+ <rtept lat="42.35116" lon="-71.11177">
+ </rtept>
+ <rtept lat="42.3519" lon="-71.11359">
+ </rtept>
+ <rtept lat="42.35221" lon="-71.11423">
+ </rtept>
+ <rtept lat="42.35391" lon="-71.11738">
+ </rtept>
+ <rtept lat="42.35411" lon="-71.11764">
+ </rtept>
+ <rtept lat="42.35458" lon="-71.11806">
+ </rtept>
+ <rtept lat="42.35624" lon="-71.11912">
+ </rtept>
+ <rtept lat="42.35653" lon="-71.1194">
+ </rtept>
+ <rtept lat="42.35697" lon="-71.11995">
+ </rtept>
+ <rtept lat="42.35725" lon="-71.12052">
+ </rtept>
+ <rtept lat="42.35736" lon="-71.12095">
+ </rtept>
+ <rtept lat="42.35763" lon="-71.12269">
+ </rtept>
+ <rtept lat="42.35769" lon="-71.12403">
+ </rtept>
+ <rtept lat="42.35766" lon="-71.12468">
+ </rtept>
+ <rtept lat="42.35758" lon="-71.12521">
+ </rtept>
+ <rtept lat="42.35675" lon="-71.12796">
+ </rtept>
+ <rtept lat="42.35654" lon="-71.12907">
+ </rtept>
+ <rtept lat="42.35646" lon="-71.13019">
+ </rtept>
+ <rtept lat="42.35657" lon="-71.13169">
+ </rtept>
+ <rtept lat="42.35767" lon="-71.13996">
+ </rtept>
+ <rtept lat="42.35836" lon="-71.1455">
+ </rtept>
+ <rtept lat="42.35842" lon="-71.1462">
+ </rtept>
+ <rtept lat="42.3584" lon="-71.14795">
+ </rtept>
+ <rtept lat="42.35806" lon="-71.15068">
+ </rtept>
+ <rtept lat="42.35796" lon="-71.15218">
+ </rtept>
+ <rtept lat="42.35754" lon="-71.16601">
+ </rtept>
+ <rtept lat="42.35755" lon="-71.16818">
+ </rtept>
+ <rtept lat="42.35785" lon="-71.1748">
+ </rtept>
+ <rtept lat="42.35792" lon="-71.17715">
+ </rtept>
+ <rtept lat="42.35785" lon="-71.17834">
+ </rtept>
+ <rtept lat="42.35767" lon="-71.17958">
+ </rtept>
+ <rtept lat="42.3564" lon="-71.18555">
+ </rtept>
+ <rtept lat="42.35608" lon="-71.18747">
+ </rtept>
+ <rtept lat="42.35608" lon="-71.18773">
+ </rtept>
+ <rtept lat="42.35465" lon="-71.19425">
+ </rtept>
+ <rtept lat="42.35393" lon="-71.19685">
+ </rtept>
+ <rtept lat="42.35222" lon="-71.2027">
+ </rtept>
+ <rtept lat="42.35159" lon="-71.20533">
+ </rtept>
+ <rtept lat="42.35123" lon="-71.20718">
+ </rtept>
+ <rtept lat="42.351" lon="-71.20865">
+ </rtept>
+ <rtept lat="42.35003" lon="-71.21566">
+ </rtept>
+ <rtept lat="42.34868" lon="-71.22171">
+ </rtept>
+ <rtept lat="42.34827" lon="-71.22442">
+ </rtept>
+ <rtept lat="42.34771" lon="-71.23062">
+ </rtept>
+ <rtept lat="42.34758" lon="-71.23176">
+ </rtept>
+ <rtept lat="42.34716" lon="-71.23461">
+ </rtept>
+ <rtept lat="42.3471" lon="-71.23532">
+ </rtept>
+ <rtept lat="42.347" lon="-71.23822">
+ </rtept>
+ <rtept lat="42.34605" lon="-71.24859">
+ </rtept>
+ <rtept lat="42.34587" lon="-71.24966">
+ </rtept>
+ <rtept lat="42.34564" lon="-71.25047">
+ </rtept>
+ <rtept lat="42.3451" lon="-71.25172">
+ </rtept>
+ <rtept lat="42.34354" lon="-71.2542">
+ </rtept>
+ <rtept lat="42.34312" lon="-71.25506">
+ </rtept>
+ <rtept lat="42.34278" lon="-71.25605">
+ </rtept>
+ <rtept lat="42.34202" lon="-71.259">
+ </rtept>
+ <rtept lat="42.3417" lon="-71.25993">
+ </rtept>
+ <rtept lat="42.34108" lon="-71.26121">
+ </rtept>
+ <rtept lat="42.34009" lon="-71.2626">
+ </rtept>
+ <rtept lat="42.33969" lon="-71.26339">
+ </rtept>
+ <rtept lat="42.33943" lon="-71.26414">
+ </rtept>
+ <rtept lat="42.33922" lon="-71.26493">
+ </rtept>
+ <rtept lat="42.33897" lon="-71.26622">
+ </rtept>
+ <rtept lat="42.33892" lon="-71.2666">
+ </rtept>
+ <rtept lat="42.3389" lon="-71.26726">
+ </rtept>
+ <rtept lat="42.33908" lon="-71.27415">
+ </rtept>
+ <rtept lat="42.33887" lon="-71.27803">
+ </rtept>
+ <rtept lat="42.33851" lon="-71.28314">
+ </rtept>
+ <rtept lat="42.33839" lon="-71.28437">
+ </rtept>
+ <rtept lat="42.33814" lon="-71.28609">
+ </rtept>
+ <rtept lat="42.33585" lon="-71.29723">
+ </rtept>
+ <rtept lat="42.33549" lon="-71.29965">
+ </rtept>
+ <rtept lat="42.33539" lon="-71.30078">
+ </rtept>
+ <rtept lat="42.33532" lon="-71.30244">
+ </rtept>
+ <rtept lat="42.33538" lon="-71.30818">
+ </rtept>
+ <rtept lat="42.33532" lon="-71.31046">
+ </rtept>
+ <rtept lat="42.33508" lon="-71.31267">
+ </rtept>
+ <rtept lat="42.33453" lon="-71.31546">
+ </rtept>
+ <rtept lat="42.33405" lon="-71.317">
+ </rtept>
+ <rtept lat="42.33305" lon="-71.31959">
+ </rtept>
+ <rtept lat="42.33135" lon="-71.32335">
+ </rtept>
+ <rtept lat="42.3281" lon="-71.33072">
+ </rtept>
+ <rtept lat="42.32705" lon="-71.33293">
+ </rtept>
+ <rtept lat="42.32578" lon="-71.33495">
+ </rtept>
+ <rtept lat="42.3208" lon="-71.3414">
+ </rtept>
+ <rtept lat="42.31977" lon="-71.34317">
+ </rtept>
+ <rtept lat="42.3193" lon="-71.34412">
+ </rtept>
+ <rtept lat="42.31878" lon="-71.34537">
+ </rtept>
+ <rtept lat="42.31804" lon="-71.34767">
+ </rtept>
+ <rtept lat="42.31761" lon="-71.34985">
+ </rtept>
+ <rtept lat="42.3169" lon="-71.35471">
+ </rtept>
+ <rtept lat="42.31663" lon="-71.35587">
+ </rtept>
+ <rtept lat="42.31627" lon="-71.35702">
+ </rtept>
+ <rtept lat="42.3159" lon="-71.35804">
+ </rtept>
+ <rtept lat="42.31547" lon="-71.35897">
+ </rtept>
+ <rtept lat="42.31448" lon="-71.36074">
+ </rtept>
+ <rtept lat="42.31343" lon="-71.36247">
+ </rtept>
+ <rtept lat="42.3127" lon="-71.36387">
+ </rtept>
+ <rtept lat="42.31196" lon="-71.36588">
+ </rtept>
+ <rtept lat="42.3117" lon="-71.36679">
+ </rtept>
+ <rtept lat="42.31148" lon="-71.36784">
+ </rtept>
+ <rtept lat="42.31124" lon="-71.36943">
+ </rtept>
+ <rtept lat="42.31116" lon="-71.37045">
+ </rtept>
+ <rtept lat="42.31113" lon="-71.37173">
+ </rtept>
+ <rtept lat="42.31117" lon="-71.3728">
+ </rtept>
+ <rtept lat="42.31131" lon="-71.37419">
+ </rtept>
+ <rtept lat="42.31199" lon="-71.37854">
+   <name>Turn 3</name>
+   <desc>Take exit 13 to merge onto MA-30 E/Cochituate Rd toward Natick
+Partial toll road</desc>
+ </rtept>
+ <rtept lat="42.31199" lon="-71.37854">
+ </rtept>
+ <rtept lat="42.31209" lon="-71.37878">
+ </rtept>
+ <rtept lat="42.31232" lon="-71.38006">
+ </rtept>
+ <rtept lat="42.3126" lon="-71.38078">
+ </rtept>
+ <rtept lat="42.31283" lon="-71.3811">
+ </rtept>
+ <rtept lat="42.31311" lon="-71.38131">
+ </rtept>
+ <rtept lat="42.31397" lon="-71.38171">
+ </rtept>
+ <rtept lat="42.31422" lon="-71.3819">
+ </rtept>
+ <rtept lat="42.31438" lon="-71.38209">
+ </rtept>
+ <rtept lat="42.31451" lon="-71.38236">
+ </rtept>
+ <rtept lat="42.3146" lon="-71.38289">
+ </rtept>
+ <rtept lat="42.31458" lon="-71.38315">
+ </rtept>
+ <rtept lat="42.31449" lon="-71.38349">
+ </rtept>
+ <rtept lat="42.31435" lon="-71.38374">
+ </rtept>
+ <rtept lat="42.31394" lon="-71.38414">
+ </rtept>
+ <rtept lat="42.31278" lon="-71.3849">
+ </rtept>
+ <rtept lat="42.31139" lon="-71.38592">
+ </rtept>
+ <rtept lat="42.30977" lon="-71.38702">
+ </rtept>
+ <rtept lat="42.30931" lon="-71.38727">
+ </rtept>
+ <rtept lat="42.30891" lon="-71.38744">
+ </rtept>
+ <rtept lat="42.30842" lon="-71.38752">
+ </rtept>
+ <rtept lat="42.30669" lon="-71.38727">
+ </rtept>
+ <rtept lat="42.3065" lon="-71.38728">
+ </rtept>
+ <rtept lat="42.30618" lon="-71.38741">
+ </rtept>
+ <rtept lat="42.30599" lon="-71.38762">
+ </rtept>
+ <rtept lat="42.30587" lon="-71.38783">
+ </rtept>
+ <rtept lat="42.30581" lon="-71.38835">
+ </rtept>
+ <rtept lat="42.30583" lon="-71.3885">
+ </rtept>
+ <rtept lat="42.30596" lon="-71.38883">
+ </rtept>
+ <rtept lat="42.30619" lon="-71.38907">
+ </rtept>
+ <rtept lat="42.30646" lon="-71.38915">
+ </rtept>
+ <rtept lat="42.30674" lon="-71.3891">
+ </rtept>
+ <rtept lat="42.3069" lon="-71.38899">
+ </rtept>
+ <rtept lat="42.30712" lon="-71.38866">
+ </rtept>
+ <rtept lat="42.30738" lon="-71.38791">
+ </rtept>
+ <rtept lat="42.30753" lon="-71.38767">
+ </rtept>
+ <rtept lat="42.3085" lon="-71.38368">
+   <name>Turn 4</name>
+   <desc>Turn right onto Speen St</desc>
+ </rtept>
+ <rtept lat="42.3085" lon="-71.38368">
+ </rtept>
+ <rtept lat="42.30768" lon="-71.38329">
+ </rtept>
+ <rtept lat="42.30373" lon="-71.38166">
+ </rtept>
+ <rtept lat="42.30169" lon="-71.38041">
+ </rtept>
+ <rtept lat="42.30068" lon="-71.37985">
+ </rtept>
+ <rtept lat="42.30039" lon="-71.37963">
+ </rtept>
+ <rtept lat="42.29914" lon="-71.37892">
+   <name>Turn 5</name>
+   <desc>Merge onto MA-9 E/Worcester St via the ramp on the left to Boston</desc>
+ </rtept>
+ <rtept lat="42.29914" lon="-71.37892">
+ </rtept>
+ <rtept lat="42.29878" lon="-71.37845">
+ </rtept>
+ <rtept lat="42.2987" lon="-71.3783">
+ </rtept>
+ <rtept lat="42.2986" lon="-71.37791">
+ </rtept>
+ <rtept lat="42.2986" lon="-71.37752">
+ </rtept>
+ <rtept lat="42.29869" lon="-71.37707">
+ </rtept>
+ <rtept lat="42.29893" lon="-71.37645">
+ </rtept>
+ <rtept lat="42.29899" lon="-71.37619">
+ </rtept>
+ <rtept lat="42.29904" lon="-71.3757">
+ </rtept>
+ <rtept lat="42.29904" lon="-71.37505">
+ </rtept>
+ <rtept lat="42.29902" lon="-71.3742">
+ </rtept>
+ <rtept lat="42.29885" lon="-71.37297">
+ </rtept>
+ <rtept lat="42.29851" lon="-71.37105">
+ </rtept>
+ <rtept lat="42.29845" lon="-71.37061">
+ </rtept>
+ <rtept lat="42.29846" lon="-71.37022">
+ </rtept>
+ <rtept lat="42.2985" lon="-71.36978">
+ </rtept>
+ <rtept lat="42.2991" lon="-71.36693">
+ </rtept>
+ <rtept lat="42.29986" lon="-71.3606">
+ </rtept>
+ <rtept lat="42.30071" lon="-71.35273">
+   <name>Turn 6</name>
+   <desc>Slight right onto Apple Hill Dr</desc>
+ </rtept>
+ <rtept lat="42.30071" lon="-71.35273">
+ </rtept>
+ <rtept lat="42.30067" lon="-71.35198">
+ </rtept>
+ <rtept lat="42.30051" lon="-71.35167">
+ </rtept>
+ <rtept lat="42.30034" lon="-71.3515">
+   <name>Turn 7</name>
+   <desc>Turn left toward Apple Hill Dr</desc>
+ </rtept>
+ <rtept lat="42.30034" lon="-71.3515">
+ </rtept>
+ <rtept lat="42.30056" lon="-71.34953">
+   <name>Turn 8</name>
+   <desc>Take the 1st right onto Apple Hill Dr
+Destination will be on the right</desc>
+ </rtept>
+ <rtept lat="42.30056" lon="-71.34953">
+ </rtept>
+ <rtept lat="42.30011" lon="-71.34968">
+ </rtept>
+ <rtept lat="42.2999" lon="-71.34991">
+ </rtept>
+ <rtept lat="42.29976" lon="-71.35028">
+ </rtept>
+ <rtept lat="42.29976" lon="-71.35069">
+ </rtept>
+ <rtept lat="42.2998" lon="-71.35084">
+   <name>Arrive</name>
+   <desc>The MathWorks, Inc., Natick, MA.</desc>
+ </rtept>
+</rte>
+</gpx>

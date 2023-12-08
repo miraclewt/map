@@ -1,0 +1,74 @@
+  A GPS Exchange Format (GPX) data set for geographic features in part of 
+  Boston, Massachusetts, USA comprising the following file:
+ 
+     boston_placenames.gpx
+ 
+  Source
+  ------
+  Office of Geographic and Environmental Information (MassGIS),
+  Commonwealth of Massachusetts  Executive Office of Environmental Affairs
+  (http://www.state.ma.us/mgis/)
+ 
+  Coordinate system/projection
+  ----------------------------
+  All data distributed by MassGIS are registered to the NAD83 datum,
+  Massachusetts State Plane Mainland Zone coordinate system. Units are in
+  meters. The data in the GPX file are registered to the NAD83 datum
+  with angle units in degrees.
+ 
+  Data set construction
+  ---------------------
+  This file was constructed using MATLAB and Mapping Toolbox.
+  This data set was constructed from the boston_placenames.shp shapefile.
+  The projected coordinates were inverse projected to create 
+  latitude and longitude coordinates, using the following code:
+
+   S = shaperead('boston_placenames');
+   proj = geotiffinfo('boston.tif');
+   surveyFeetPerMeter = unitsratio('sf','meter');
+    for k=1:numel(S)
+        x =  surveyFeetPerMeter * S(k).X;
+        y =  surveyFeetPerMeter * S(k).Y;
+        [S(k).Lat, S(k).Lon] = projinv(proj, x, y);
+    end
+    S = rmfield(S, {'X','Y','Geometry'});
+    p = geopoint(S);
+    p.Name = p.NAME;
+    p.Description = p.FEATURE;
+    p = rmfield(p, {'NAME', 'FEATURE', 'COORD'});
+    p.Metadata.FeatureType = 'waypoint';
+
+  The geopoint, p, was written to the file, boston_placenames.gpx.
+
+  Data Attributes
+  ---------------
+  The Name attribute represents place names for geographic features.
+
+  The Description attribute specifies a feature type. Feature types come from 
+  three categories:
+  
+      * hydrographic features - lakes, ponds, streams, rivers, bays, harbors,
+      * channels
+      * civic features - city and town names, sections, villages
+      * hypsographic features - hills, mountains, points, beaches,
+      * islands
+
+  Waypoints
+  ---------
+  This data set contains 13 waypoints.
+
+  Tracks
+  ------
+  This data set contains 0 tracks.
+
+  Routes
+  ------
+  This data set contains 0 routes.
+
+  Construction date
+  -----------------
+  October 31, 2011.
+
+----------------------------------
+Copyright 2011 The MathWorks, Inc.
+  

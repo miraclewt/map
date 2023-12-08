@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+   version="1.1"
+   creator="The MathWorks, Inc. https://www.mathworks.com"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<name> boston_placenames.gpx </name>
+   <copyright author="The Mathworks, Inc.">
+      <year>2011</year>
+   </copyright>
+</metadata>
+<wpt lat="42.3500973174683" lon="-71.0869964418275">
+   <name>'BACK BAY'</name>
+   <desc>PPL-SUBDVSN</desc>
+</wpt>
+<wpt lat="42.3514861409393" lon="-71.0925520144894">
+   <name> BACK BAY FENS</name>
+   <desc> MARSH</desc>
+</wpt>
+<wpt lat="42.359819705752" lon="-71.0661624795323">
+   <name> BEACON HILL</name>
+   <desc> HILL</desc>
+</wpt>
+<wpt lat="42.3584309249587" lon="-71.05977353092">
+   <name> BOSTON</name>
+   <desc> PPL</desc>
+</wpt>
+<wpt lat="42.3528750882627" lon="-71.0661623089518">
+   <name> BOSTON NECK</name>
+   <desc> PENINSULA</desc>
+</wpt>
+<wpt lat="42.3625973251678" lon="-71.078940831337">
+   <name> BROAD CANAL</name>
+   <desc> CANAL</desc>
+</wpt>
+<wpt lat="42.3667636727526" lon="-71.0994965349129">
+   <name> CAMBRIDGE</name>
+   <desc> PPL</desc>
+</wpt>
+<wpt lat="42.3667638047734" lon="-71.056440283293">
+   <name> COPPS HILL</name>
+   <desc> HILL</desc>
+</wpt>
+<wpt lat="42.3667635327847" lon="-71.080052017167">
+   <name>'EAST CAMBRIDGE'</name>
+   <desc>PPL-SUBDVSN</desc>
+</wpt>
+<wpt lat="42.355653048506" lon="-71.0661622246835">
+   <name> FLAGSTAFF HILL</name>
+   <desc> HILL</desc>
+</wpt>
+<wpt lat="42.3556531111068" lon="-71.0494954365641">
+   <name> FORT POINT CHANNEL</name>
+   <desc> CHANNEL</desc>
+</wpt>
+<wpt lat="42.3562084167132" lon="-71.0661625886865">
+   <name> FROG POND</name>
+   <desc> LAKE</desc>
+</wpt>
+<wpt lat="42.3459310661292" lon="-71.0564399308961">
+   <name> SOUTH BAY</name>
+   <desc> INLET</desc>
+</wpt>
+</gpx>
